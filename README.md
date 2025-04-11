@@ -37,3 +37,13 @@ Optimized API request flow to reduce latency.
 Contributed to peer code reviews and performance tuning.
 
 Gained hands-on experience working with REST APIs and JSON parsing.
+
+
+Weather App (Python + OpenWeatherMap API)
+✅ Prerequisites:
+Python 3.x installed
+
+requests library (pip install requests)
+
+OpenWeatherMap API key (free from https://openweathermap.org/api)
+
